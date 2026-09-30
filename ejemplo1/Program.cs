@@ -14,6 +14,7 @@ namespace ejemplo1
         [STAThread]
         static void Main()
         {
+            //le agrego un comentario
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frmPrincipal());
